@@ -1,0 +1,17 @@
+.root {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.card{
+  background-color: white;
+  border: 1px solid rgb(228, 225, 225);
+  height: 200px;
+  border-radius: 12px;  
+}

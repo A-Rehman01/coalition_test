@@ -1,0 +1,11 @@
+.container {
+    margin-top: 5%;
+}
+.carImage{
+    margin: 0px 12px;
+    border-radius: 12px;
+}
+.carImageThumb{
+    border-radius: 12px;
+    margin-top: 12px;
+}
